@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Student at University at XXX"
   location         : "Shanghai China"
   employer         : "University at XX"
-  uri              : https://jusleotin.github.io/
+  # uri              : https://jusleotin.github.io/
   email            : "liujc552@gmail.com" 
 
   # Academic websites
