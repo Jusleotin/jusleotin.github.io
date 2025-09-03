@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Circuit Analysis"
+venue: "EE 202"
+date: 2025-09-03
+location: "Amherst, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Systematic development of network analysis methods. Topics include resistive circuits, Kirchhoff’s laws, equivalent subcircuits; dependent sources; loop and nodal analysis; energy-storage elements; transient analysis of first-order and second-order circuits; sinusoidal steady-state analysis; passive filters. **I am responsible for marking homework and exam, answering questions on recitation and making attendance statistics **
 
 Heading 1
 ======
