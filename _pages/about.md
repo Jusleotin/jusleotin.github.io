@@ -11,5 +11,5 @@ I am a Ph.D. student at the University at Buffalo, advised by [Dr. Rui Zhang](ht
 
 News
 ======
-- **2026-02-23**: Submitted a paper to *IEEE Wireless Communications Letters (WCL)*.
-- **2026-04-16**: Submitted *Efficient Near Field Beam Tracking via Thompson Sampling* to 2026 Asilomar Conference on Signals, Systems, and Computers (ACSSC).
+- **2026-02-23**: Submitted a paper about near-field beam training to *IEEE Wireless Communications Letters (WCL)*.
+- **2026-04-16**: Submitted a paper about near-field tracking to 2026 Asilomar Conference on Signals, Systems, and Computers (ACSSC).
