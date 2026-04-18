@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-03-10-efficient-adaptive-near-field-beam-training-linear-bandit
 excerpt: 'A linear bandit-based near-field beam training framework under multipath channels with up to 90% pilot overhead reduction and over 2 dB SNR gain.'
 date: 2026-03-10
-venue: 'Submitted to IEEE Wireless Communications Letters (WCL)'
+venue: 'IEEE Wireless Communications Letters (Submitted)'
 paperurl: 'https://arxiv.org/abs/2603.09893'
 citation: 'Junchi Liu, Zijun Wang, Rui Zhang. (2026). &quot;Efficient, Adaptive Near-Field Beam Training based on Linear Bandit.&quot; Submitted to <i>IEEE Wireless Communications Letters (WCL)</i>. arXiv:2603.09893.'
 ---
