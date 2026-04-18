@@ -1,19 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Circuit Analysis"
-venue: "EE 202"
-date: 2025-09-03
+type: "Communication System"
+venue: "EE 383"
+date: 2026-01-15
 location: "Amherst, US"
 ---
 
-Systematic development of network analysis methods. Topics include resistive circuits, Kirchhoff’s laws, equivalent subcircuits; dependent sources; loop and nodal analysis; energy-storage elements; transient analysis of first-order and second-order circuits; sinusoidal steady-state analysis; passive filters. **I am responsible for marking homework and exam, answering questions on recitation and making attendance statistics **
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Fourier transforms and spectra; linear filters; transmission of signals through linear systems; bandpass signals; bandpass systems; continuous wave modulation; amplitude modulation (AM); double sideband modulation (DSB); single sideband modulation (SSB), phase modulation (PM); frequency modulation (FM); quadrature amplitude modulation (QAM); frequency division multiplexing (FDM); demodulation of analog modulated signals; random variables; statistical averages; random processes; autocorrelation and power spectral density; stationarity; transmission of random processes through linear systems; white noise; colored noise; Gaussian noise; noise in continuous wave modulation systems; signal-to-noise-ratio (SNR); sampling; pulse amplitude modulation (PAM). Responsible for homework grading, recitation Q&A, office hours, and exam proctoring.
