@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junchi Liu - Home"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Junchi Liu"
 description              : &description "Ph.D. Student at University at Buffalo"
